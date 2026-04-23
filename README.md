@@ -1,8 +1,11 @@
 # ComProg-1 Python Lab 6: NumPy & Pandas
 
 **Student:** Jesier Cresencio 
+
 **ID:** TUP-25-2043
+
 **Section:** 1C
+
 **Instructor:** Engr. Gilfred Allen M. Madrigal
 
 ---
