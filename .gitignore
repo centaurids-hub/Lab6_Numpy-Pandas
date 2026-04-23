@@ -2,4 +2,4 @@ venv/
 env/
 __pycache__/
 *.pyc
-echo "survey_results_public.csv" >> .gitignore
+survey_results_public.csv
